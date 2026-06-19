@@ -1,4 +1,4 @@
 fastapi==0.95.0
-payment-service==2.0.0
+payment-service==1.0.0
 uvicorn
 some-random-package
